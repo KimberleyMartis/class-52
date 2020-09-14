@@ -1,0 +1,32 @@
+.intro{
+    background-color:#9C2B66 ;
+    border: solid;
+    display:flex;
+      justify-content: space-between; 
+}
+
+
+h1{
+    padding-left: 30px ;
+    color: blue;
+}
+body
+{
+    background-color: powderblue;
+}
+
+
+a:link {
+    color:yellowgreen;
+
+}
+a:visited {
+     color: palevioletred;
+
+}
+.menu {
+    margin-left:50px ;
+}
+.item :hover img {
+    opacity: 0.5;
+}
